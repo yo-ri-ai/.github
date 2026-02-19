@@ -1,6 +1,0 @@
-node_modules/
-_site/
-package-lock.json
-npm-shrinkwrap.json
-yarn.lock
-.DS_Store
